@@ -10,8 +10,8 @@ on:
 
 jobs:
   reveal-flag:
-    if: contains(github.event.head_commit.message, 'open-sesame')
     runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'open-sesame')
     steps:
       - name: Step 1 - Check trigger.txt
         run: |
