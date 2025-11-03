@@ -1,11 +1,12 @@
-# ctf-github-actions-challenge
+# GitHub Actions Puzzle Challenge
 
-Welcome to the challenge! Your goal is to find the hidden flag.
+Welcome to the multi-step GitHub Actions challenge.
 
-## Instructions
+Your goal is to unlock the flag hidden in the Actions log. But it won't be easy...
 
-1. Explore the repository.
-2. Look for clues in the files and configuration.
-3. You may need to trigger something to reveal the flag...
+Hints:
+- Some files may need your attention.
+- A special message might be required.
+- Not all branches are created equal.
 
 Good luck!
