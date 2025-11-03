@@ -1,0 +1,11 @@
+name: Reveal the Flag
+
+on:
+  workflow_dispatch:  # Allows manual triggering from the Actions tab
+
+jobs:
+  reveal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print the flag
+        run: echo "FLAG{gh_actions_are_sneaky}"
